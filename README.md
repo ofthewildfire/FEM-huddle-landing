@@ -30,7 +30,8 @@ socials at the bottom.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:
+  [https://github.com/ofthewildfire/FEM-huddle-landing](https://github.com/ofthewildfire/FEM-huddle-landing)
 - Live Site URL:
   [https://fem-huddle-landing-kc.vercel.app/](https://fem-huddle-landing-kc.vercel.app/)
 
