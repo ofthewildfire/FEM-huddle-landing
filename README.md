@@ -24,10 +24,15 @@ socials at the bottom.
 
 ![](./desktop.png)
 
+### Pagespeed Report
+
+![](./desktop_test.png)
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:
+  [https://fem-huddle-landing-kc.vercel.app/](https://fem-huddle-landing-kc.vercel.app/)
 
 ### Built with
 
